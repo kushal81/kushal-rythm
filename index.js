@@ -43,7 +43,7 @@ client.cooldowns = new Discord.Collection(); //an collection for cooldown comman
   }
 });
 //login into the bot
-client.login(require("./botconfig/config.json").token);
+client.login(process.env.token);
 
 const Enmap = require("enmap")
 client.settings = new Enmap({name: "settings", dataDir: "./database/settings"})
