@@ -42,7 +42,7 @@ let string2 = `\`\`\`fix
 let string3 = `\`\`\`fix
 !commands   -- Shows all available Commands
 !aliases    -- Shows the Aliases for each Command
-!help       -- Shows you Help for Milrato x Rythm
+!help       -- Shows you Help for Kushal x Rythm
 !ping       -- Gives you info on how fast the Bot responds
 !uptime     -- Shows the time on how long the Bot is online
 \`\`\``     
