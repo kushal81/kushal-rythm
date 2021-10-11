@@ -10,7 +10,7 @@ module.exports = {
     description: "Shows you Help for Milrato x Rythm",
     run: async (client, message, args, user, text, prefix) => {
       try{
-        let string = `:white_check_mark: Type \`${prefix}commands\` for a list of Commands\n\n:question: New to **Milrato x Rythm**? Check out our [Rythm's FAQ](https://rythm.fm/docs/faq/)\n\n:page_facing_up: Still need help? [Click here](https://discord.gg/wvCp7q88G3) to join our [Discord server](https://discord.gg/wvCp7q88G3)`
+        let string = `:white_check_mark: Type \`${prefix}commands\` for a list of Commands\n\n:question: New to **Kushal x Rythm**? Check out our [Rythm's FAQ](https://rythm.fm/docs/faq/)\n\n:page_facing_up: Still need help? [Click here](https://discord.gg/w8UKwaCTYd) to join our [Discord server](https://discord.gg/w8UKwaCTYd)`
         let embed = new MessageEmbed()
         .setTitle("Kushal x Rythm Help")
         .setURL("https://YouTube.com/KushalTheAndroidGuru")
