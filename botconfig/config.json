@@ -1,6 +1,6 @@
 {
   "token": "",
-  "prefix": "!",
+  "prefix": "process.env.Prefix",
   "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
   
   
